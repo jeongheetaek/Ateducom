@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "886812981651",
+    "firebase_url": "https://ateducom-a8c9e.firebaseio.com",
+    "project_id": "ateducom-a8c9e",
+    "storage_bucket": "ateducom-a8c9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886812981651:android:e3c1863a2dc3f408",
+        "android_client_info": {
+          "package_name": "com.administrator.ateducom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886812981651-u3t8jqqm5ilf8ad168vme3uhk1o88m03.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.administrator.ateducom",
+            "certificate_hash": "1431a4ed815c605ffb9b8992b7ed0c80217cb084"
+          }
+        },
+        {
+          "client_id": "886812981651-qg4fa9ngbmp2ls8ru0asfe8suu0aarr8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0jWgywaNnpN5dxPaezzKSR0uneK-xwgw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886812981651-qg4fa9ngbmp2ls8ru0asfe8suu0aarr8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
